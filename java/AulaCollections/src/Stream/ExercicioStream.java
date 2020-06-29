@@ -19,7 +19,12 @@ public class ExercicioStream {
 
         //Letra A
         System.out.println("Letra A:");
-        System.out.println(alunos.stream().map(aluno -> aluno.getNome().concat(" - ").concat(String.valueOf(aluno.getIdade()))).collect(Collectors.joining(" | ")));
+        System.out.println(alunos.stream().map(aluno -> aluno
+                .getNome()
+                .concat(" - ")
+                .concat(String.valueOf(aluno.getIdade())))
+                .collect(Collectors.joining(" | "))
+        );
 
         //Letra B
         System.out.println("Letra B");

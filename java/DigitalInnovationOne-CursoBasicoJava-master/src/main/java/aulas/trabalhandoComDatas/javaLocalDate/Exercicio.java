@@ -1,6 +1,10 @@
 package aulas.trabalhandoComDatas.javaLocalDate;
 
 import java.time.LocalDateTime;
+import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Predicate;
+import java.util.function.Supplier;
 
 public class Exercicio {
     public static void main(String[] args) {
@@ -8,5 +12,9 @@ public class Exercicio {
         System.out.println(dataAntiga);
         LocalDateTime dataNova = dataAntiga.plusYears(4).plusMonths(6).plusHours(10);
         System.out.println(dataNova);
+        Function;
+        Consumer;
+        Predicate;
+        Supplier
     }
 }
