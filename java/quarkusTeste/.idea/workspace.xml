@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f58f634-e94d-4b17-93fc-2cdf21da4110" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AulaDeTeste/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AulaDeTeste/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AulaDeTeste/src/test/java/com/teste/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AulaDeTeste/src/test/java/com/teste/CalculadoraTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AulaDeTeste/target/classes/com/teste/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AulaDeTeste/target/test-classes/com/teste/AssertTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AulaDeTeste/target/test-classes/com/teste/CalculadoraTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AulaDeTeste/target/test-classes/com/teste/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AulaDeTeste/target/test-classes/com/teste/RuleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../digitalinnovation-hateoas-init" beforeDir="false" afterPath="$PROJECT_DIR$/../digitalinnovation-hateoas-init" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1eQhU0zEgjWOXTw7oLNMV8KNtF6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f58f634-e94d-4b17-93fc-2cdf21da4110" name="Default Changelist" comment="" />
+      <created>1594259735859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594259735859</updated>
+    </task>
+    <servers />
+  </component>
+</project>
